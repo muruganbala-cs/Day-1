@@ -1,0 +1,19 @@
+Difference between HTTP1.1 vs HTTP2
+
+HTTP1.1
+
+HTTP1.1 was Developed in 1989 by Timothy Berners-Lee
+it is text based protocal
+it allows single request and response  over a sinlge connecion
+comparing HTTP1 it reduces bugs and errors
+HTTP1.1 does not supports server push so client need to make requests every time 
+it TCP handling is inefficency
+
+
+HTTP2
+it was Developed on 2015
+it i binory based protocal
+it allows multiple requestsin a single connecion      
+comparing HTTP1.1 it reducesall errors
+it supports server push, so client mank multiple requests is a single connection. it improves speed and efficency of the web applications
+it allows client to specify a priority of requests, which can improve the responsiveness of the protocol and reduce latency.
