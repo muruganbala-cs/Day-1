@@ -11,4 +11,4 @@ myCar.model = 'A8';
 myCar.year = 2023;
 myCar.color = 'Red';
 
-it was a example for Objects
+ example for Objects
