@@ -14,6 +14,6 @@ HTTP2
 it was Developed on 2015
 it i binory based protocal
 it allows multiple requestsin a single connecion      
-comparing HTTP1.1 it reducesall errors
+comparing HTTP1.1 it reduces all errors
 it supports server push, so client mank multiple requests is a single connection. it improves speed and efficency of the web applications
 it allows client to specify a priority of requests, which can improve the responsiveness of the protocol and reduce latency.
