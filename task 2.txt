@@ -1,14 +1,15 @@
-Objects and its internal representation in javascript
-
+Objects and their internal representation in javascript
+objects are collections of key-value pairs, where keys are strings (or symbols) and values can be of any data type, including other objects
 Objects are an important data type in javascript
-numbers, string and boolen data types contains one value but objects contains many value in form of key
-Every object has some property associated with some value. These values can be accessed using these properties associated with them.
-objects are more complicated then other data types in javascript
+numbers, string and boolean data types contain one value but objects contain many value in the form of key
+Every object has some property associated with some value. These values can be accessed using the properties associated with them.
+objects are more complicated than other data types in javascript
 
 var myCar = new Object();
 myCar.make = 'Audi';
 myCar.model = 'A8';
 myCar.year = 2023;
 myCar.color = 'Red';
+myCar.geartype='Automatice';
 
  example for Objects
