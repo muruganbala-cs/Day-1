@@ -1,7 +1,9 @@
 Objects and their internal representation in javascript
+Objects are more complex and each object may contain any combination of these primitive data types as well as reference data types.
 objects are collections of key-value pairs, where keys are strings (or symbols) and values can be of any data type, including other objects
 Objects are an important data type in javascript
-numbers, string and boolean data types contain one value but objects contain many value in the form of key
+numbers, string and boolean data types contain one value but objects contain many values in the form of key
+properties of JavaScript objects can also be accessed or set using a bracket notation (for more details see property accessors).
 Every object has some property associated with some value. These values can be accessed using the properties associated with them.
 objects are more complicated than other data types in javascript
 
